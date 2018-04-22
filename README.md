@@ -14,3 +14,4 @@ It is just an implementation of online course by awesome guy called Brad Travers
 * User Authentication
 * Model Relationships
 * Access Control
+* Upload File (Image for example)
